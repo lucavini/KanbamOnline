@@ -1,4 +1,4 @@
 # KanbamOnline
 Simple project to practice basic knowledge of HTML and CSS
 
-![](https://github.com/lucavini/KanbamOnline/blob/main/img/screenShotKanban.png)
+<img src="https://github.com/lucavini/KanbamOnline/tree/main/img/screenShotKanban.png"/>
